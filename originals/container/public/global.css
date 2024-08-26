@@ -1,0 +1,16 @@
+body {
+  h3 {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    color: #e7791f;
+  }
+  section {
+    h3 {
+      margin-top: 3px;
+      margin-bottom: 10px;
+      color: blueviolet;
+    }
+    border: dashed thick #08c708;
+    padding: 15px;
+  }
+}
